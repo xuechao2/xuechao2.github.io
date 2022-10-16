@@ -11,17 +11,17 @@ redirect_from:
 
 I am a 5th year Ph.D. candidate at [Department of ECE](https://ece.illinois.edu/) at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
 
-Here is a more detailed [CV]({{site.url}}/files/cv.pdf/)
+Here is a more detailed [CV]({{site.url}}/assets/cv.pdf/)
 
 Education
 ======
 * University of Illinois, Urbana-Champaign (2020.12-present)  
   PhD in Electrical and Computer Engineering  
-  Advisor: [Pramod Viswanath](https://web3.princeton.edu/members/)
+  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
 * University of Illinois, Urbana-Champaign (2018.08-2020.12)  
   MS in Electrical and Computer Engineering  
-  Advisor: [Pramod Viswanath](https://web3.princeton.edu/members/)
+  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
 * Tsinghua University (2014.08-2018.07)  
   BS in Electronic Engineering  
@@ -32,7 +32,7 @@ Work Experience
 ======
 * Princeton University, [ECE](https://ece.princeton.edu/)  
   Visiting researcher  (2022.08-present) 
-  Advisor: [Pramod Viswanath](https://web3.princeton.edu/members/)
+  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
 * Protocol Labs, [ConsensusLab](https://research.protocol.ai/groups/consensuslab/)
   Summer fellow    (2022.05-2022.08)
