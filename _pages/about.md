@@ -11,6 +11,7 @@ redirect_from:
 
 I am a 5th year Ph.D. candidate at [Department of ECE](https://ece.illinois.edu/) at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
 
+Here is a more detailed [CV]({{site.url}}/files/cv.pdf/)
 
 Education
 ======
@@ -52,7 +53,7 @@ Academic Excellence Scholarship, Tsinghua University  2015-2017
 Changhong Scholarship, Tsinghua University  2015
 
 
-PROFESSIONAL SERVICE
+Professional Service
 ======
 * TPC member of ACM CCS 2022 Workshop on developments in consensus (ConsensusDay) 
 * Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers
