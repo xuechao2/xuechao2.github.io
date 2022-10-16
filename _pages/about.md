@@ -54,8 +54,8 @@ Changhong Scholarship, Tsinghua University  2015
 
 PROFESSIONAL SERVICE
 ======
-TPC member of ACM CCS 2022 Workshop on developments in consensus (ConsensusDay) 
-Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers
+* TPC member of ACM CCS 2022 Workshop on developments in consensus (ConsensusDay) 
+* Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers
 
 
 
