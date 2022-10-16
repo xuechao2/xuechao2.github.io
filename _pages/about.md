@@ -42,7 +42,7 @@ Work Experience
 
 Teaching Experience
 ======
-ECE598PV: Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2021/) UIUC    
+ECE598PV: Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2022/) UIUC    
 
 
 
