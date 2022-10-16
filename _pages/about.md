@@ -11,7 +11,7 @@ redirect_from:
 
 I am a 5th year Ph.D. candidate at [Department of ECE](https://ece.illinois.edu/) at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
 
-Here is a more detailed [CV]({{site.url}}/assets/CV.pdf/) and [Publications]({{site.url}}/publications/)
+Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{site.url}}/publications/).
 
 Education
 ======
