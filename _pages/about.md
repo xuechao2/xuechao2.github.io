@@ -36,7 +36,13 @@ Work Experience
 * Protocol Labs, [ConsensusLab](https://research.protocol.ai/groups/consensuslab/)
   Summer fellow    (2022.05-2022.08)
   Research intern  (2022.08-present)
-  Mentor: Dr. [sarah azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
+  Mentor: Dr. [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
+
+
+Teaching Experience
+======
+ECE598PV: Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2021/) UIUC    
+
 
 
 Honors and Awards
@@ -46,9 +52,12 @@ Academic Excellence Scholarship, Tsinghua University  2015-2017
 Changhong Scholarship, Tsinghua University  2015
 
 
-Teaching Experience
+PROFESSIONAL SERVICE
 ======
-ECE598PV: Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2021/) UIUC    
+TPC member of ACM CCS 2022 Workshop on developments in consensus (ConsensusDay) 
+Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers
+
+
 
 
 
