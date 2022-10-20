@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 <sup>\*</sup> denotes equal contribution or or alphabetical order.
+
+- **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “TrustBoost: Boosting Trust among Interoperable Blockchains” under review.
   
 - **X. Wang**, S. Azouvi, and M. Vukolic, “Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model” under review.
 
