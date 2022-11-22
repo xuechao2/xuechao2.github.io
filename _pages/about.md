@@ -15,7 +15,7 @@ Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{si
 
 Education
 ======
-* University of Illinois, Urbana-Champaign (2020.12-present)  
+* University of Illinois, Urbana-Champaign (2020.12-2023.05 expected)  
   PhD in Electrical and Computer Engineering  
   Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
@@ -36,7 +36,7 @@ Work Experience
 
 * Protocol Labs, [ConsensusLab](https://research.protocol.ai/groups/consensuslab/)  
   Summer fellow    (2022.05-2022.08)  
-  Research intern  (2022.08-present)  
+  Research intern  (2022.08-2022.11)  
   Mentor: Dr. [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 
 
