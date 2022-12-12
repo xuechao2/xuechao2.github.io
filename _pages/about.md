@@ -13,6 +13,8 @@ I am a 5th year Ph.D. candidate at [Department of Electrical and Computer Engine
 
 Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{site.url}}/publications/).
 
+<span style="color:red">some **Hire me:** text</span> I'm on the 2022-2023 job market!
+
 Education
 ======
 * University of Illinois, Urbana-Champaign (2020.12-2023.05 expected)  
