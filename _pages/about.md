@@ -16,7 +16,7 @@ Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{si
 <span style="color:red">**News:**</span> **I will join the [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST (GZ) as an assitant professor starting this fall!**
 
 
-<span style="color:red">**I am looking for strongly motivated postgraduate students (MPhil and PhD), research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV:**</span>
+<span style="color:red">**I am looking for strongly motivated postgraduate students (MPhil and PhD), research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV.**</span>
 
 
 Education
