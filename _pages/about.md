@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am a final year Ph.D. candidate at [Department of Electrical and Computer Engi
 
 Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{site.url}}/publications/).
 
-<span style="color:red">**News:**</span> I will join the Thrust of Fintech at HKUST (GZ) as an assitant professor starting this fall!
+<span style="color:red">**News:**</span> I will join the [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST (GZ) as an assitant professor starting this fall!
 
 Education
 ======
