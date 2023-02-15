@@ -9,11 +9,15 @@ author_profile: true
 
 <sup>\*</sup> denotes equal contribution or or alphabetical order.
 
-- **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)” under review.
-  
-- **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://drive.google.com/file/d/1KFykwDHQxsgbOApbLKDZL6ViOQBQoQBf/view)” under review.
+**Preprints**
 
-- L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “Practical Low Latency Proof of Work Consensus” under review.
+- **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”.
+  
+- **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://drive.google.com/file/d/1KFykwDHQxsgbOApbLKDZL6ViOQBQoQBf/view)”.
+
+- L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “Practical Low Latency Proof of Work Consensus”.
+
+**Conference Papers**
 
 - M. Fitzi<sup>\*</sup>, **X. Wang**<sup>\*</sup>, S. Kannan, A. Kiayias, N. Leonardos, P. Viswanath, and G. Wang, “[Minotaur: Multi-Resource Blockchain Consensus](https://arxiv.org/abs/2201.11780)”, ACM CCS 2022.
 
