@@ -15,7 +15,7 @@ author_profile: true
   
 - **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://drive.google.com/file/d/1KFykwDHQxsgbOApbLKDZL6ViOQBQoQBf/view)”.
 
-- L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “Practical Low Latency Proof of Work Consensus”.
+- L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
 **Conference Papers**
 
