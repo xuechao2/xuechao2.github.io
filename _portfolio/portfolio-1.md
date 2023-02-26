@@ -46,7 +46,7 @@ collection: portfolio
 
 **联系方式：**
 
-请将个人简历、成绩单以及相关学术论文发送至邮箱wangxuech14 \lang AT \rang gmail \lanf DOT \rang com。标题注明2023/2024-fall PhD/MPhil (or other research position) application。
+请将个人简历、成绩单以及相关学术论文发送至邮箱wangxuech14 [AT] gmail [DOT] com。标题注明2023/2024-fall PhD/MPhil (or other research position) application。
 
 **香港科技大学（广州）介绍：**
 
