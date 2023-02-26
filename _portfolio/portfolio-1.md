@@ -35,6 +35,7 @@ collection: portfolio
 	- 常用编程语言（Python、C++、Golang、Rust）
 	- 区块链项目经验（Bitcoin、Ethereum、Hyperledger Fabric）
 	- 常用机器学习软件框架（PyTorch、Tensorflow）
+
 5. 对于暂时缺乏科研经验的同学也欢迎申请科研访问学生（Research Intern）或者科研助理（Research Assistant）的职位。
 
 **薪资待遇：**
