@@ -13,7 +13,7 @@ author_profile: true
 
 - **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”.
   
-- **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://drive.google.com/file/d/1KFykwDHQxsgbOApbLKDZL6ViOQBQoQBf/view)”.
+- **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://fips.filecoin.io/resources/frc-0051/sec_analysis.pdf)”.
 
 - L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
