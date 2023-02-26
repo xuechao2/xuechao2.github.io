@@ -8,11 +8,11 @@ collection: portfolio
 
 **导师简介：**
 
-王雪超，伊利诺伊大学厄巴纳香槟分校电气与计算机工程专业博士研究生，2023年8月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。王老师于2018年在清华大学电子工程系获得学士学位。博士期间，王老师致力于区块链安全性和可扩展性的理论及系统研究，已在计算机安全领域顶会中发表多篇论文。目前师从于普林斯顿大学教授[Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath)，并与美国工程院院士、首位华人香农奖获得者、斯坦福大学教授[David Tse](https://tselab.stanford.edu/people/principal-investigator/david-tse/)和IOHK首席科学家、爱丁堡大学教授[Aggelos Kiayias](https://kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html)等区块链领域国际著名学者保持深度合作。
+王雪超，伊利诺伊大学厄巴纳香槟分校电气与计算机工程专业博士研究生，2023年8月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。其于2018年在清华大学电子工程系获得学士学位。博士期间致力于区块链安全性和可扩展性的理论及系统研究，已在计算机安全领域顶会中发表多篇论文。目前师从于普林斯顿大学教授[Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath)，并与美国工程院院士、首位华人香农奖获得者、斯坦福大学教授[David Tse](https://tselab.stanford.edu/people/principal-investigator/david-tse/)和IOHK首席科学家、爱丁堡大学教授[Aggelos Kiayias](https://kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html)等区块链领域国际著名学者保持深度合作。
 
 **科研方向：**
 
-1. blockchain infrastructure (layer-1, layer-2, cross-chain)
+1. Blockchain infrastructure (layer-1, layer-2, cross-chain)
 2. Decentralized Finance (DeFi) and Central Bank Digital Currency (CBDC)
 3. The intersection of AI and blockchains
 
