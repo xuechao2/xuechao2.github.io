@@ -25,7 +25,7 @@ collection: portfolio
     - 概率与随机过程
 	- 博弈论，优化理论
 	- （Preferred）区块链理论，机器学习理论
-- 良好的编程和系统搭建能力
+*良好的编程和系统搭建能力*
 	- 常用编程语言（Python、C++、Golang、Rust）
 	- （Preferred）区块链项目经验（Bitcoin、Ethereum、Hyperledger Fabric）
 	- （Preferred）常用机器学习软件框架（PyTorch、Tensorflow）
