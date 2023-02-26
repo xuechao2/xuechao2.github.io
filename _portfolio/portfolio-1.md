@@ -4,11 +4,11 @@ excerpt: "HKUST(GZ) PhD/MPhil and other research positions"
 collection: portfolio
 ---
 
-*香港科技大学（广州）金融科技学域王雪超老师课题组现招收全奖博士、硕士研究生（2023/2024秋季入学）。同时开放科研助理、科研访问学生等职位申请。*
+*香港科技大学（广州）金融科技学域王雪超老师课题组现招收全奖博士、硕士研究生（2023/2024秋季入学）。同时开放科研助理、科研访问学生等职位申请。目前Fall 2023[申请门户](https://fytgs.hkust.edu.hk/admissions/Admission-to-Guangzhou-Campus/submitting-an-application/how-apply-gz)仍然开放。*
 
 **导师简介：**
 
-王雪超，伊利诺伊大学厄巴纳香槟分校电气与计算机工程专业博士研究生，2023年8月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。其于2018年在清华大学电子工程系获得学士学位。博士期间致力于区块链安全性和可扩展性的理论及系统研究，已在计算机安全领域顶会中发表多篇论文。目前师从于普林斯顿大学教授[Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath)，并与美国工程院院士、首位华人香农奖获得者、斯坦福大学教授[David Tse](https://tselab.stanford.edu/people/principal-investigator/david-tse/)和IOHK首席科学家、爱丁堡大学教授[Aggelos Kiayias](https://kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html)等区块链领域国际著名学者保持深度合作。 更多信息可参考[个人主页](https://xuechao2.github.io/)。
+王雪超，伊利诺伊大学厄巴纳香槟分校电气与计算机工程专业博士研究生，2023年8月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。其于2018年在清华大学电子工程系获得学士学位。博士期间致力于区块链安全性和可扩展性的理论及系统研究，已在计算机安全领域顶会中发表多篇论文，其研究成果影响了多条公链的设计。目前师从于普林斯顿大学教授[Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath)，并与美国工程院院士、首位华人香农奖获得者、斯坦福大学教授[David Tse](https://tselab.stanford.edu/people/principal-investigator/david-tse/)和IOHK首席科学家、爱丁堡大学教授[Aggelos Kiayias](https://kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html)等区块链领域国际著名学者保持深度合作。 更多信息可参考[个人主页](https://xuechao2.github.io/)。
 
 
 **科研方向：**
