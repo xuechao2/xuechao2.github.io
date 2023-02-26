@@ -26,12 +26,12 @@ collection: portfolio
 3. 愿意积极交流及合作，具备良好的英语表达能力和英文学术写作能力
 4. 具备以下一项或多项技术特长的同学会优先考虑：
 
-*扎实的理论基础*
+- *扎实的理论基础*
 	- 概率与随机过程
 	- 博弈论，优化理论
 	- 区块链理论，机器学习理论
 
-*良好的编程和系统搭建能力*
+- *良好的编程和系统搭建能力*
 	- 常用编程语言（Python、C++、Golang、Rust）
 	- 区块链项目经验（Bitcoin、Ethereum、Hyperledger Fabric）
 	- 常用机器学习软件框架（PyTorch、Tensorflow）
