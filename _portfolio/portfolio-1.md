@@ -8,7 +8,8 @@ collection: portfolio
 
 **导师简介：**
 
-王雪超，伊利诺伊大学厄巴纳香槟分校电气与计算机工程专业博士研究生，2023年8月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。其于2018年在清华大学电子工程系获得学士学位。博士期间致力于区块链安全性和可扩展性的理论及系统研究，已在计算机安全领域顶会中发表多篇论文。目前师从于普林斯顿大学教授[Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath)，并与美国工程院院士、首位华人香农奖获得者、斯坦福大学教授[David Tse](https://tselab.stanford.edu/people/principal-investigator/david-tse/)和IOHK首席科学家、爱丁堡大学教授[Aggelos Kiayias](https://kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html)等区块链领域国际著名学者保持深度合作。
+王雪超，伊利诺伊大学厄巴纳香槟分校电气与计算机工程专业博士研究生，2023年8月将加入香港科技大学（广州）社会枢纽金融科技学域，担任助理教授。其于2018年在清华大学电子工程系获得学士学位。博士期间致力于区块链安全性和可扩展性的理论及系统研究，已在计算机安全领域顶会中发表多篇论文。目前师从于普林斯顿大学教授[Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath)，并与美国工程院院士、首位华人香农奖获得者、斯坦福大学教授[David Tse](https://tselab.stanford.edu/people/principal-investigator/david-tse/)和IOHK首席科学家、爱丁堡大学教授[Aggelos Kiayias](https://kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html)等区块链领域国际著名学者保持深度合作。 更多信息可参考[个人主页](https://xuechao2.github.io/)。
+
 
 **科研方向：**
 
@@ -18,7 +19,7 @@ collection: portfolio
 
 **培养计划：**
 
-王老师对科研有极大热情，特别欢迎同样对科研有热情的同学加入团队。王老师非常重视学生科研素养培养，充分尊重学生想法，鼓励学生自主发现及探索问题，并为学生提供自由的科研环境。此外，王老师与物联网学域[李松泽](https://songzli.github.io/)教授等目前通过共同指导博士生和共同承担科研项目保持深度合作，录取学生也可以选择感兴趣的教授作为第二导师进行联合指导。
+王老师对科研有极大热情，特别欢迎同样对科研有热情的同学加入团队。王老师非常重视学生科研素养培养，充分尊重学生想法，鼓励学生自主发现及探索问题，并为学生提供自由的科研环境。王老师与国内外学界业界保持深度合作，可为学生提供国内外优秀科研组交流合作和企业实习机会。此外，王老师与物联网学域[李松泽](https://songzli.github.io/)教授等目前通过共同指导博士生和共同承担科研项目保持深度合作，录取学生也可以选择感兴趣的教授作为第二导师进行联合指导。
 
 **招生要求：**
 1. 学生专业要求：计算机，电子，数学，统计，金融等相关专业
