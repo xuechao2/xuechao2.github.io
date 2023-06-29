@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 
-I am a final year Ph.D. candidate at [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
+I am an incoming assistant professor [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST (GZ) starting this fall. I obtained a Ph.D. in Electrical and Computer Engineering at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, I obtained my Bachelor Degree in Electronic Engineering at Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
 
 Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{site.url}}/publications/).
 
-<span style="color:red">**News:**</span> **I will join the [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST (GZ) as an assistant professor starting this fall!**
 
 
 <span style="color:red">**I am looking for strongly motivated postgraduate students (MPhil and PhD), research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information.**</span>
@@ -21,7 +20,7 @@ Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{si
 
 Education
 ======
-* University of Illinois, Urbana-Champaign (2020.12-2023.05 expected)  
+* University of Illinois, Urbana-Champaign (2020.12-2023.05)  
   PhD in Electrical and Computer Engineering  
   Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 

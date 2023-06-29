@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuechao Wang"
 title_separator          : "-"
 name                     : &name "Xuechao Wang"
-description              : &description "Fnal Year PhD Student, UIUC"
+description              : &description "Incoming Assitant Professor at HKUST (GZ)"
 url                      : https://xuechao2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuechao2/xuechao2.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xuechao Wang"
   avatar           : "xuechao.jpg"
-  bio              : "Final Year PhD Student at UIUC & Incoming Assitant Professor at HKUST (GZ)"
+  bio              : "Incoming Assitant Professor at HKUST (GZ)"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
