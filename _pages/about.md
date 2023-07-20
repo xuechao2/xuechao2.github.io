@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am an incoming assistant professor [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST (GZ) starting this fall. I obtained a Ph.D. in Electrical and Computer Engineering at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, I obtained my Bachelor Degree in Electronic Engineering at Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
+I am an assistant professor in [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST(GZ). I obtained a Ph.D. in Electrical and Computer Engineering at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, I obtained my Bachelor Degree in Electronic Engineering at Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
 
 Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{site.url}}/publications/).
 
 
 
-<span style="color:red">**I am looking for strongly motivated postgraduate students (MPhil and PhD), research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information.**</span>
+<span style="color:red">**I am looking for strongly motivated postgraduate students (PhD), research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information.**</span>
 
 
 Education
@@ -35,8 +35,11 @@ Education
 
 Work Experience
 ======
+* Hong Kong University of Science and Technology (Guangzhou), [Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology)  
+  Assistant professor (2023.07-present)   
+
 * Princeton University, [ECE](https://ece.princeton.edu/)  
-  Visiting researcher  (2022.08-present)   
+  Visiting researcher  (2022.08-2023.07)   
   Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
 * Protocol Labs, [ConsensusLab](https://research.protocol.ai/groups/consensuslab/)  
