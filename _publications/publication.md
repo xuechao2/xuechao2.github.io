@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<sup>\*</sup> denotes equal contribution or or alphabetical order.
+<sup>\*</sup> denotes equal contribution or alphabetical order.
 
 **Preprints**
 
