@@ -1,6 +1,6 @@
 ---
-title: "香港科技大学（广州）金融科技学域王雪超老师课题组现招收全奖博士、硕士研究生（2023/2024秋季入学）"
-excerpt: "HKUST(GZ) PhD/MPhil and other research positions"
+title: "香港科技大学（广州）金融科技学域王雪超老师课题组现招收全奖博士研究生（2024秋季入学）"
+excerpt: "HKUST(GZ) PhD and other research positions"
 collection: portfolio
 ---
 
