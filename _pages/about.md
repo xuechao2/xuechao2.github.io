@@ -9,28 +9,21 @@ redirect_from:
 ---
 
 
-I am an assistant professor in [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST(GZ). I obtained a Ph.D. in Electrical and Computer Engineering at University of Illinois Urbana-Champaign, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, I obtained my Bachelor Degree in Electronic Engineering at Tsinghua University. My research interest is in decentralized consensus protocols (blockchains).
+Dr. Xuechao Wang is currently an assistant professor in [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST(GZ). He obtained a PhD degree in Electrical and Computer Engineering at University of Illinois Urbana-Champaign in 2023, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, he obtained a Bachelor Degree in Electronic Engineering at Tsinghua University in 2018. His research interest is in blockchains. During his PhD, he has published several papers in top conferences in the field of computer security, and his research has influenced the design of multiple public chains.
 
 Here is a more detailed [CV]({{site.url}}/assets/CV.pdf) and [Publications]({{site.url}}/publications/).
 
 
 
-<span style="color:red">**I am looking for strongly motivated postgraduate students (PhD), research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information.**</span>
+<span style="color:red">**I am looking for strongly motivated postgraduate students (PhD), post-docs, research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information.**</span>
 
-
-Education
+Research Interests
 ======
-* University of Illinois, Urbana-Champaign (2020.12-2023.05)  
-  PhD in Electrical and Computer Engineering  
-  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
+* Blockchain infrastructure (layer-1, layer-2, cross-chain)
 
-* University of Illinois, Urbana-Champaign (2018.08-2020.12)  
-  MS in Electrical and Computer Engineering  
-  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
+* Decentralized Finance (DeFi) and Central Bank Digital Currency (CBDC)
 
-* Tsinghua University (2014.08-2018.07)  
-  BS in Electronic Engineering  
-  Advisor: Prof. [Zhaocheng Wang](https://www.ee.tsinghua.edu.cn/en/info/1058/1239.htm)
+* The intersection of AI and blockchains
 
 
 Work Experience
@@ -47,18 +40,26 @@ Work Experience
   Research intern  (2022.08-2022.11)  
   Mentor: Dr. [Sarah Azouvi](http://www0.cs.ucl.ac.uk/staff/S.Azouvi/)
 
+Education
+======
+* University of Illinois, Urbana-Champaign (2020.12-2023.05)  
+  PhD in Electrical and Computer Engineering  
+  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
-Teaching Experience
+* University of Illinois, Urbana-Champaign (2018.08-2020.12)  
+  MS in Electrical and Computer Engineering  
+  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
+
+* Tsinghua University (2014.08-2018.07)  
+  BS in Electronic Engineering  
+  Advisor: Prof. [Zhaocheng Wang](https://www.ee.tsinghua.edu.cn/en/info/1058/1239.htm)
+
+
+
+Teaching
 ======
 ECE598PV: Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2022/) UIUC    
 
-
-
-Honors and Awards
-======
-Excellent Graduates, Tsinghua University  2018  
-Academic Excellence Scholarship, Tsinghua University  2015-2017  
-Changhong Scholarship, Tsinghua University  2015
 
 
 Professional Service
