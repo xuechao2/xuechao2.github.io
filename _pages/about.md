@@ -15,7 +15,7 @@ Here is a more detailed [CV]({{site.url}}/assets/CV_1.pdf) and [Publications]({{
 
 
 
-<span style="color:red">**I am looking for strongly motivated postgraduate students (PhD), post-docs, research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information.**</span>
+<span style="color:red">**I am looking for strongly motivated postgraduate students (PhD), post-docs, research assistants, and summer interns, on research topics including blockchain infrastructure (layer-1, layer-2, cross-chain), CBDCs, DeFi, and the intersection of AI and blockchains. Interested applicants please email me with your CV, transcript, and any related publications. Check [here](https://xuechao2.github.io/portfolio/portfolio-1/) for more information. (While I usually read all emails, I do apologize for not being able to respond to each of them due to high volume of inquiries.)**</span>
 
 Research Interests
 ======
