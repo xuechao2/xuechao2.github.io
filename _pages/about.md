@@ -64,7 +64,8 @@ ECE598PV: Principles of Blockchains, Teaching Assistant, [Spring 2021](https://c
 
 Professional Service
 ======
-* TPC member of ACM CCS 2022 Workshop on developments in consensus (ConsensusDay) 
+* PC member of Financial Cryptography and Data Security 2024 ([FC 24](https://fc24.ifca.ai/cfp.html))
+* TPC member of ACM CCS 2022 Workshop on developments in consensus ([ConsensusDay 22](https://research.protocol.ai/sites/consensusday22/calls/)) 
 * Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers
 
 
