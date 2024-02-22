@@ -65,7 +65,7 @@ Teaching
 
 Professional Service
 ======
-* PC member of [ACM CCS 24](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), Blockchain and Distributed Systems Track
+* PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), Blockchain and Distributed Systems Track
 * PC member of Financial Cryptography and Data Security 2024 ([FC 24](https://fc24.ifca.ai/cfp.html))
 * TPC member of ACM CCS 2022 Workshop on developments in consensus ([ConsensusDay 22](https://research.protocol.ai/sites/consensusday22/calls/)) 
 * Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers, Probability in the Engineering and Informational Sciences
