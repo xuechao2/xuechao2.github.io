@@ -18,9 +18,9 @@ Accountability for Byzantine Faults](https://arxiv.org/abs/2305.09123)”.
 
 **Conference Papers**
 
-- **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”, to appear in ACM CCS 2023.
+- **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”, ACM CCS 2023.
   
-- **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://arxiv.org/abs/2308.06955)”, to appear in AFT 2023.
+- **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://arxiv.org/abs/2308.06955)”, AFT 2023.
 
 - M. Fitzi<sup>\*</sup>, **X. Wang**<sup>\*</sup>, S. Kannan, A. Kiayias, N. Leonardos, P. Viswanath, and G. Wang, “[Minotaur: Multi-Resource Blockchain Consensus](https://arxiv.org/abs/2201.11780)”, ACM CCS 2022.
 
