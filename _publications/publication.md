@@ -18,6 +18,8 @@ Accountability for Byzantine Faults](https://arxiv.org/abs/2305.09123)”.
 
 **Conference Papers**
 
+- Q. Yu, G. Losa, **X. Wang**, “[TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://arxiv.org/abs/2405.02615)”, ACM PODC 2024.
+
 - **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”, ACM CCS 2023.
   
 - **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://arxiv.org/abs/2308.06955)”, AFT 2023.

@@ -11,7 +11,7 @@ redirect_from:
 
 Dr. Xuechao Wang is currently an Assistant Professor in [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST(GZ). He obtained a PhD degree in Electrical and Computer Engineering at University of Illinois Urbana-Champaign in 2023, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, he obtained a Bachelor Degree in Electronic Engineering at Tsinghua University in 2018. His research interest is in blockchains. During his PhD, he has published several papers in top conferences in the field of computer security, and his research has influenced the design of multiple public chains.
 
-Here is a more detailed [CV]({{site.url}}/assets/CV_2.pdf) and [Publications]({{site.url}}/publications/).
+Here is a more detailed [CV]({{site.url}}/assets/CV_3.pdf) and [Publications]({{site.url}}/publications/).
 
 
 
@@ -68,7 +68,7 @@ Professional Service
 * PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), Blockchain and Distributed Systems Track
 * PC member of Financial Cryptography and Data Security 2024 ([FC 24](https://fc24.ifca.ai/cfp.html))
 * TPC member of ACM CCS 2022 Workshop on developments in consensus ([ConsensusDay 22](https://research.protocol.ai/sites/consensusday22/calls/)) 
-* Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers, Probability in the Engineering and Informational Sciences
+* Reviewer for IEEE ISIT 2020, IEEE ISIT 2021, ACM Transactions on Privacy and Security, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers, Probability in the Engineering and Informational Sciences
 
 
 
