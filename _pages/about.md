@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Dr. Xuechao Wang is currently an Assistant Professor in [Thrust of Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology) at HKUST(GZ). He obtained a PhD degree in Electrical and Computer Engineering at University of Illinois Urbana-Champaign in 2023, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, he obtained a Bachelor Degree in Electronic Engineering at Tsinghua University in 2018. His research interest is in blockchains. During his PhD, he has published several papers in top conferences in the field of computer security, and his research has influenced the design of multiple public chains.
+Dr. Xuechao Wang is currently an Assistant Professor in [Thrust of Fintech](https://soch.hkust-gz.edu.cn/academics/ftec/) and [Thrust of IoT](https://iott.hkust-gz.edu.cn/) at HKUST(GZ). He obtained a PhD degree in Electrical and Computer Engineering at University of Illinois Urbana-Champaign in 2023, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, he obtained a Bachelor Degree in Electronic Engineering at Tsinghua University in 2018. His research interest is in blockchains. He has published many papers in top conferences in the field of blockchains, computer security and distributed computing, and his research has influenced the design of multiple public chains.
 
 Here is a more detailed [CV]({{site.url}}/assets/CV_4.pdf) and [Publications]({{site.url}}/publications/).
 
@@ -28,7 +28,7 @@ Research Interests
 
 Appointments
 ======
-* Hong Kong University of Science and Technology (Guangzhou), [Fintech](https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology)  
+* Hong Kong University of Science and Technology (Guangzhou), [Fintech](https://soch.hkust-gz.edu.cn/academics/ftec/) and [IoT](https://iott.hkust-gz.edu.cn/)  
   Assistant Professor (2023.07-present)   
 
 * Princeton University, [ECE](https://ece.princeton.edu/)  
