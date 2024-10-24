@@ -58,6 +58,7 @@ Education
 
 Teaching
 ======
+* UFUG2101 Introduction to Multivariable Calculus, Fall 2024, HKUST(GZ)
 * FTEC5320 Decentralized Finance, Instructor, Spring 2024, HKUST(GZ)
 * ECE598PV Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2022/), UIUC    
 
@@ -65,6 +66,9 @@ Teaching
 
 Professional Service
 ======
+* PC member of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/program-committee/), Blockchain and Distributed Systems Track
+* PC member of [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers)
+* PC member of Financial Cryptography and Data Security 2025 ([FC 25](https://fc25.ifca.ai/cfp.html))
 * PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), Blockchain and Distributed Systems Track
 * PC member of Financial Cryptography and Data Security 2024 ([FC 24](https://fc24.ifca.ai/cfp.html))
 * TPC member of ACM CCS 2022 Workshop on developments in consensus ([ConsensusDay 22](https://research.protocol.ai/sites/consensusday22/calls/)) 
