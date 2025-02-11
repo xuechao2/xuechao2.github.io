@@ -17,7 +17,7 @@ author_profile: true
 
 - L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
-**Conference Papers
+**Conference Papers**
 
 - S. Wang, Y. Huang, W. Zhang, Y. Huang, **X. Wang**, J. Tang, “[Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum's Block Building Market](https://arxiv.org/abs/2410.12352)”, ACM WWW 2025.
 
