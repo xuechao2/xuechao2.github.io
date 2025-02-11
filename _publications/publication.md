@@ -11,16 +11,20 @@ author_profile: true
 
 **Preprints**
 
+- M. Bastankhah, V. Nadkarni, **X. Wang**, P. Viswanath, “[AgileRate: Bringing Adaptivity and Robustness to DeFi Lending Markets](https://arxiv.org/abs/2410.13105)”.
+
 - Z. Zhao, Z. Fang, **X. Wang**, X. Chen, Y. Zhou, “[Proof-of-Learning with Incentive Security](https://arxiv.org/abs/2404.09005)”.
 
 - L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
-**Conference Papers**
+**Conference Papers
 
-- C. Che, S. Li, **X. Wang**, ”[Manifoldchain: Maximizing Blockchain Throughput via BandwidthClustered Sharding](https://arxiv.org/abs/2407.16295)“, NDSS 2025.
+- S. Wang, Y. Huang, W. Zhang, Y. Huang, **X. Wang**, J. Tang, “[Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum's Block Building Market](https://arxiv.org/abs/2410.12352)”, ACM WWW 2025.
+
+- C. Che, S. Li, **X. Wang**, “[Manifoldchain: Maximizing Blockchain Throughput via BandwidthClustered Sharding](https://arxiv.org/abs/2407.16295)”, NDSS 2025.
 
 - W. Tang, P. Sheng, R. Hi, P. Roy, **X. Wang**, G. Fanti, P. Viswanath, “[Raft-Forensics: High Performance CFT Consensus with
-Accountability for Byzantine Faults](https://arxiv.org/abs/2305.09123)“, AFT 2024.
+Accountability for Byzantine Faults](https://arxiv.org/abs/2305.09123)”, AFT 2024.
 
 - Q. Yu, G. Losa, **X. Wang**, “[TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://arxiv.org/abs/2405.02615)”, ACM PODC 2024.
 
