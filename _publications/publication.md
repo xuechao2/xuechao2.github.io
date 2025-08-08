@@ -11,6 +11,8 @@ author_profile: true
 
 **Preprints**
 
+- J. Liu, Y. Xue, D. Wu, J. Liu, **X. Wang**, “[Zeus: Defending against Fee Stealing and Griefing Attacks in Multi-Hop Payments](https://eprint.iacr.org/2025/1070)”.
+
 - M. Bastankhah, V. Nadkarni, **X. Wang**, P. Viswanath, “[AgileRate: Bringing Adaptivity and Robustness to DeFi Lending Markets](https://arxiv.org/abs/2410.13105)”.
 
 - Z. Zhao, Z. Fang, **X. Wang**, X. Chen, Y. Zhou, “[Proof-of-Learning with Incentive Security](https://arxiv.org/abs/2404.09005)”.
@@ -18,6 +20,10 @@ author_profile: true
 - L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
 **Conference Papers**
+
+- N. Shrestha<sup>\*</sup>, Q. Yu<sup>\*</sup>, A. Kate, G. Losa, K. Nayak, **X. Wang**, “[Optimistic, Signature-Free Reliable Broadcast and Its Applications](https://arxiv.org/abs/2505.02761)”, ACM CCS 2025.
+
+- J. Lin, M. Liu, S. Li, **X. Wang**, “[SecurePay: Enabling Secure and Fast Payment Processing for Platform Economy](https://arxiv.org/abs/2505.17466)”, IEEE/ACM IWQoS 2025.
 
 - S. Wang, Y. Huang, W. Zhang, Y. Huang, **X. Wang**, J. Tang, “[Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum's Block Building Market](https://arxiv.org/abs/2410.12352)”, ACM WWW 2025.
 
@@ -28,7 +34,7 @@ Accountability for Byzantine Faults](https://arxiv.org/abs/2305.09123)”, AFT 2
 
 - Q. Yu, G. Losa, **X. Wang**, “[TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://arxiv.org/abs/2405.02615)”, ACM PODC 2024.
 
-- **X. Wang**, P. Sheng, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”, ACM CCS 2023.
+- P. Sheng<sup>\*</sup>, **X. Wang**<sup>\*</sup>, S. Kannan, K. Nayak, and P. Viswanath, “[TrustBoost: Boosting Trust among Interoperable Blockchains](https://arxiv.org/abs/2210.11571)”, ACM CCS 2023.
   
 - **X. Wang**, S. Azouvi, and M. Vukolic, “[Security Analysis of Filecoin’s Expected Consensus in the Byzantine vs Honest Model](https://arxiv.org/abs/2308.06955)”, AFT 2023.
 
