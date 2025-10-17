@@ -58,7 +58,7 @@ Education
 
 Teaching
 ======
-* UFUG2101 Introduction to Multivariable Calculus, Fall 2024, HKUST(GZ)
+* UFUG2101 Introduction to Multivariable Calculus, Fall 2024 & Fall 2025, HKUST(GZ)
 * FTEC5320 Decentralized Finance, Instructor, Spring 2024 & Spring 2025, HKUST(GZ)
 * UFUG2101 Introduction to Multivariable Calculus, Fall 2024 & Fall 2025, HKUST(GZ)
 * ECE598PV Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2022/), UIUC    

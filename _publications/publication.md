@@ -11,6 +11,10 @@ author_profile: true
 
 **Preprints**
 
+- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Consensus with Optimal Throughput and Latency Across the Leader-DAG Spectrum](https://arxiv.org/abs/2509.15847)”.
+
+- D. Wu, J. Liu, **X. Wang**, J. Liu, Y. Xue, K. Ren, C. Chun, “[Your Trust, Your Terms: A General Paradigm for Near-Instant Cross-Chain Transfer](https://arxiv.org/abs/2403.15191)”.
+
 - J. Liu, Y. Xue, D. Wu, J. Liu, **X. Wang**, “[Zeus: Defending against Fee Stealing and Griefing Attacks in Multi-Hop Payments](https://eprint.iacr.org/2025/1070)”.
 
 - M. Bastankhah, V. Nadkarni, **X. Wang**, P. Viswanath, “[AgileRate: Bringing Adaptivity and Robustness to DeFi Lending Markets](https://arxiv.org/abs/2410.13105)”.
@@ -21,7 +25,7 @@ author_profile: true
 
 **Conference Papers**
 
-- N. Shrestha<sup>\*</sup>, Q. Yu<sup>\*</sup>, A. Kate, G. Losa, K. Nayak, **X. Wang**, “[Optimistic, Signature-Free Reliable Broadcast and Its Applications](https://arxiv.org/abs/2505.02761)”, ACM CCS 2025.
+- N. Shrestha<sup>\*</sup>, Q. Yu<sup>\*</sup>, A. Kate, G. Losa, K. Nayak, **X. Wang**, “[Optimistic, Signature-Free Reliable Broadcast and Its Applications](https://arxiv.org/abs/2505.02761)”, ACM CCS 2025. ([<font color="red"><b>Distinguished Paper Award</b></font>](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Optimistic%2C%20Signature%2DFree%20Reliable%20Broadcast%20and%20Its%20Applications))
 
 - J. Lin, M. Liu, S. Li, **X. Wang**, “[SecurePay: Enabling Secure and Fast Payment Processing for Platform Economy](https://arxiv.org/abs/2505.17466)”, IEEE/ACM IWQoS 2025.
 
