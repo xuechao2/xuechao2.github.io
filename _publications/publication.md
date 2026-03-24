@@ -11,7 +11,9 @@ author_profile: true
 
 **Preprints**
 
-- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Consensus with Optimal Throughput and Latency Across the Leader-DAG Spectrum](https://arxiv.org/abs/2509.15847)”.
+- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)”.
+
+- C. Li, Z. Sun, J. X. Yuu, **X. Wang**, “[The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi](https://arxiv.org/abs/2511.15245)”.
 
 - D. Wu, J. Liu, **X. Wang**, J. Liu, Y. Xue, K. Ren, C. Chun, “[Your Trust, Your Terms: A General Paradigm for Near-Instant Cross-Chain Transfer](https://arxiv.org/abs/2403.15191)”.
 
@@ -24,6 +26,10 @@ author_profile: true
 - L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
 **Conference Papers**
+
+- J. Yao, H. Su, T. Liao, Z. Cheng, H. Zhang, **X. Wang**, P. Viswanath, “[TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks](https://arxiv.org/abs/2510.16028)”, EuroSys 2026.
+
+- Z. Peng, Y. Liu, Z. Sun, M. Li, Z. Luo, J. Zheng, W. Dong, X. He, **X. Wang**, Y. Xue, S. Xu, X. Huang, “[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568)”, ICLR 2026.
 
 - N. Shrestha<sup>\*</sup>, Q. Yu<sup>\*</sup>, A. Kate, G. Losa, K. Nayak, **X. Wang**, “[Optimistic, Signature-Free Reliable Broadcast and Its Applications](https://arxiv.org/abs/2505.02761)”, ACM CCS 2025. ([<font color="red"><b>Distinguished Paper Award</b></font>](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Optimistic%2C%20Signature%2DFree%20Reliable%20Broadcast%20and%20Its%20Applications))
 
