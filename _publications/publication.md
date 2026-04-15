@@ -29,7 +29,12 @@ author_profile: true
 
 - J. Yao, H. Su, T. Liao, Z. Cheng, H. Zhang, **X. Wang**, P. Viswanath, “[TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks](https://arxiv.org/abs/2510.16028)”, EuroSys 2026.
 
+- Y. Cao<sup>\*</sup>, M. Zheng<sup>\*</sup>, L. W. Cong, S. Li, **X. Wang**, “[The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](https://arxiv.org/abs/2604.03083)”, ACM SIGMETRICS 2026.
+
+
 - Z. Peng, Y. Liu, Z. Sun, M. Li, Z. Luo, J. Zheng, W. Dong, X. He, **X. Wang**, Y. Xue, S. Xu, X. Huang, “[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568)”, ICLR 2026.
+
+- H. Su<sup>\*</sup>, M. Liu<sup>\*</sup>, J. Xu, X. Jia, **X. Wang**, “[GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship](https://arxiv.org/abs/2604.10160)”, ICBC 2026.
 
 - N. Shrestha<sup>\*</sup>, Q. Yu<sup>\*</sup>, A. Kate, G. Losa, K. Nayak, **X. Wang**, “[Optimistic, Signature-Free Reliable Broadcast and Its Applications](https://arxiv.org/abs/2505.02761)”, ACM CCS 2025. ([<font color="red"><b>Distinguished Paper Award</b></font>](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Optimistic%2C%20Signature%2DFree%20Reliable%20Broadcast%20and%20Its%20Applications))
 
