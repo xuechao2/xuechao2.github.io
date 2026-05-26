@@ -11,7 +11,6 @@ author_profile: true
 
 **Preprints**
 
-- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)”.
 
 - C. Li, Z. Sun, J. X. Yuu, **X. Wang**, “[The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi](https://arxiv.org/abs/2511.15245)”.
 
@@ -27,12 +26,16 @@ author_profile: true
 
 **Conference Papers**
 
+- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)”, CCS 2026.
+
 - J. Yao, H. Su, T. Liao, Z. Cheng, H. Zhang, **X. Wang**, P. Viswanath, “[TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks](https://arxiv.org/abs/2510.16028)”, EuroSys 2026.
 
 - Y. Cao<sup>\*</sup>, M. Zheng<sup>\*</sup>, L. W. Cong, S. Li, **X. Wang**, “[The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](https://arxiv.org/abs/2604.03083)”, ACM SIGMETRICS 2026.
 
 
 - Z. Peng, Y. Liu, Z. Sun, M. Li, Z. Luo, J. Zheng, W. Dong, X. He, **X. Wang**, Y. Xue, S. Xu, X. Huang, “[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568)”, ICLR 2026.
+
+- Y. Huang, J. Luo, **X. Wang**, “[Heterogeneous Tasks Offloading in Vehicular Edge Computing: A Federated Meta Deep Reinforcement Learning Approach](https://arxiv.org/abs/2605.18437)”, IEEE/ACM IWQoS 2026.
 
 - H. Su<sup>\*</sup>, M. Liu<sup>\*</sup>, J. Xu, X. Jia, **X. Wang**, “[GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship](https://arxiv.org/abs/2604.10160)”, ICBC 2026.
 

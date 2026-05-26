@@ -76,7 +76,7 @@ Professional Service
 * PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), Blockchain and Distributed Systems Track
 * PC member of Financial Cryptography and Data Security 2024 ([FC 24](https://fc24.ifca.ai/cfp.html))
 * TPC member of ACM CCS 2022 Workshop on developments in consensus ([ConsensusDay 22](https://research.protocol.ai/sites/consensusday22/calls/)) 
-* Reviewer for  Eurocrypt 2025, IEEE ISIT 2020-2021, ACM Transactions on Privacy and Security, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers, IEEE Transactions on Dependable and Secure Computing, IEEE Journal on Selected Areas in Communications, Probability in the Engineering and Informational Sciences
+* Reviewer for  Eurocrypt 2025, IEEE ISIT 2020-2021, ACM Transactions on Privacy and Security, IEEE Transactions on Wireless Communications, IEEE Transactions on Computers, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Dependable and Secure Computing, IEEE Journal on Selected Areas in Communications, Probability in the Engineering and Informational Sciences, Distributed Ledger Technologies
 
 
 
