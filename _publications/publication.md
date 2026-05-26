@@ -26,7 +26,7 @@ author_profile: true
 
 **Conference Papers**
 
-- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)”, CCS 2026.
+- Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)”, ACM CCS 2026.
 
 - J. Yao, H. Su, T. Liao, Z. Cheng, H. Zhang, **X. Wang**, P. Viswanath, “[TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks](https://arxiv.org/abs/2510.16028)”, EuroSys 2026.
 
