@@ -52,7 +52,7 @@ Education
 
 * Tsinghua University (2014.08-2018.07)  
   BS in Electronic Engineering  
-  Advisor: Prof. [Zhaocheng Wang](https://www.ee.tsinghua.edu.cn/en/info/1058/1239.htm)
+  Advisor: Prof. [Zhaocheng Wang](https://web.ee.tsinghua.edu.cn/wangzhaocheng/en/index/4193/list/index.htm)
 
 
 
