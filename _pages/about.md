@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Dr. Xuechao Wang is currently an Assistant Professor in [Thrust of Fintech](https://soch.hkust-gz.edu.cn/academics/ftec/) and [Thrust of IoT](https://iott.hkust-gz.edu.cn/) at HKUST(GZ). He obtained a PhD degree in Electrical and Computer Engineering at University of Illinois Urbana-Champaign in 2023, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, he obtained a Bachelor Degree in Electronic Engineering at Tsinghua University in 2018. His research interest is in blockchains. He has published many papers in top conferences in the field of blockchains, computer security and distributed computing, and his research has influenced the design of multiple public chains. He received ACM CCS 2025 Distinguished Paper Award.
+Dr. Xuechao Wang is currently an Assistant Professor in [Thrust of Fintech](https://soch.hkust-gz.edu.cn/academics/ftec/) and [Thrust of IoT](https://iott.hkust-gz.edu.cn/) at HKUST(GZ). He obtained a PhD degree in Electrical and Computer Engineering at University of Illinois Urbana-Champaign in 2023, advised by Prof. [Pramod Viswanath](https://web3.princeton.edu/members/). Previously, he obtained a Bachelor Degree in Electronic Engineering at Tsinghua University in 2018. His research interest is in blockchains. He has published more than 20 papers in top conferences in the field of blockchains, computer security and distributed computing, and his research has influenced the design of multiple public chains. He received ACM CCS 2025 Distinguished Paper Award.
 
-Here is a more detailed [CV]({{site.url}}/assets/CV_7.pdf) and [Publications]({{site.url}}/publications/).
+Here is a more detailed [CV]({{site.url}}/assets/CV_8.pdf) and [Publications]({{site.url}}/publications/).
 
 
 
@@ -58,7 +58,7 @@ Education
 
 Teaching
 ======
-* UFUG2101 Introduction to Multivariable Calculus, Fall 2024 & Fall 2025, HKUST(GZ)
+* UFUG2101 Introduction to Multivariable Calculus, Fall 2024 & Fall 2025 & Fall 2026, HKUST(GZ)
 * FTEC5320 Decentralized Finance, Instructor, Spring 2024 & Spring 2025 & Spring 2026, HKUST(GZ)
 * ECE598PV Principles of Blockchains, Teaching Assistant, [Spring 2021](https://courses.grainger.illinois.edu/ece598pv/sp2021/) & [Spring 2022](https://courses.grainger.illinois.edu/ece598pv/sp2022/), UIUC    
 
@@ -66,6 +66,9 @@ Teaching
 
 Professional Service
 ======
+* PC member of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27/call-for-papers)
+* PC member of [ACNS 2027](https://acns2027.isg.rhul.ac.uk/calls/papers/)
+* PC member of Financial Cryptography and Data Security 2027 ([FC 27](https://fc27.ifca.ai/cfp.html))
 * PC member of [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/program-committee/), Blockchain and Distributed Systems Track
 * PC member of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
 * PC member of [ACM AsiaCCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/)
