@@ -11,6 +11,15 @@ author_profile: true
 
 **Preprints**
 
+- Q. Yu, J. Villacis, G. Losa, Z. Xiang, **X. Wang**, “[Simple-IT: Practical Low-Latency Signature-Free BFT Consensus](https://arxiv.org/abs/2606.14404)”. 
+
+- C. Che, S. Li, **X. Wang**, “[OptChain: Achieving Optimal Throughput of Permissionless Blockchains](https://arxiv.org/abs/2606.23405)”.
+    
+- J. Liu, B. Zhang, L. W. Cong, S. Li, **X. Wang**, “[From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240)”.
+    
+- H. Su, J. Yao, H. Zhang, **X. Wang**, P. Viswanath, “[OVIG: Optimistic Verification of AI Training Integrity via Gradient Signals](https://arxiv.org/abs/2606.21045)”.
+
+- D. Wu, Y. Bai, S. Ren, X. Zhang, Y. Cao, **X. Wang**, W. Wen, J. Liu, “[Ordering Power is Sanctioning Power: Sanction Evasion-MEV and the Limits of On-Chain Enforcement](https://arxiv.org/abs/2603.27739)”.
 
 - C. Li, Z. Sun, J. X. Yuu, **X. Wang**, “[The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi](https://arxiv.org/abs/2511.15245)”.
 
@@ -47,8 +56,7 @@ author_profile: true
 
 - C. Che, S. Li, **X. Wang**, “[Manifoldchain: Maximizing Blockchain Throughput via BandwidthClustered Sharding](https://arxiv.org/abs/2407.16295)”, NDSS 2025.
 
-- W. Tang, P. Sheng, R. Hi, P. Roy, **X. Wang**, G. Fanti, P. Viswanath, “[Raft-Forensics: High Performance CFT Consensus with
-Accountability for Byzantine Faults](https://arxiv.org/abs/2305.09123)”, AFT 2024.
+- W. Tang, P. Sheng, R. Hi, P. Roy, **X. Wang**, G. Fanti, P. Viswanath, “[CFT-Forensics: High-Performance Byzantine Accountability for Crash Fault Tolerant Protocols](https://arxiv.org/abs/2305.09123)”, AFT 2024.
 
 - Q. Yu, G. Losa, **X. Wang**, “[TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus](https://arxiv.org/abs/2405.02615)”, ACM PODC 2024.
 
