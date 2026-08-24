@@ -44,6 +44,8 @@ author_profile: true
 
 - Z. Peng, Y. Liu, Z. Sun, M. Li, Z. Luo, J. Zheng, W. Dong, X. He, **X. Wang**, Y. Xue, S. Xu, X. Huang, “[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568)”, ICLR 2026.
 
+- Z. Peng, J. Zheng, Y. Liu, H. Jia, Q. Ye, J. Liu, X. Yang, M. Li, Q. Gong, **X. Wang**, X. He, “[TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding]”, EMNLP 2026.
+
 - Y. Huang, J. Luo, **X. Wang**, “[Heterogeneous Tasks Offloading in Vehicular Edge Computing: A Federated Meta Deep Reinforcement Learning Approach](https://arxiv.org/abs/2605.18437)”, IEEE/ACM IWQoS 2026.
 
 - H. Su<sup>\*</sup>, M. Liu<sup>\*</sup>, J. Xu, X. Jia, **X. Wang**, “[GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship](https://arxiv.org/abs/2604.10160)”, ICBC 2026.
