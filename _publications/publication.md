@@ -9,13 +9,11 @@ author_profile: true
 
 <sup>\*</sup> denotes equal contribution or alphabetical order.
 
-**Preprints**
+**Preprints** 
 
-- Q. Yu, J. Villacis, G. Losa, Z. Xiang, **X. Wang**, “[Simple-IT: Practical Low-Latency Signature-Free BFT Consensus](https://arxiv.org/abs/2606.14404)”. 
+- G. Losa, **X. Wang**, Z. Xiang, Q. Yu, “[Simple and Fast Signature-Free Blockchain Consensus](https://arxiv.org/abs/2609.32985)”.
 
 - C. Che, S. Li, **X. Wang**, “[OptChain: Achieving Optimal Throughput of Permissionless Blockchains](https://arxiv.org/abs/2606.23405)”.
-    
-- J. Liu, B. Zhang, L. W. Cong, S. Li, **X. Wang**, “[From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240)”.
     
 - H. Su, J. Yao, H. Zhang, **X. Wang**, P. Viswanath, “[OVIG: Optimistic Verification of AI Training Integrity via Gradient Signals](https://arxiv.org/abs/2606.21045)”.
 
@@ -33,7 +31,11 @@ author_profile: true
 
 - L. Yang, **X. Wang**, V. Bagaria, G. Wang, M. Alizadeh, G. Fanti, D. Tse, and P. Viswanath, “[Practical Low Latency Proof of Work Consensus](https://arxiv.org/abs/1909.11261)”.
 
-**Conference Papers**
+**Conference & Journal Papers**
+
+- Q. Yu, J. Villacis, G. Losa, Z. Xiang, **X. Wang**, “[Simple-IT: Practical Low-Latency Signature-Free BFT Consensus](https://arxiv.org/abs/2606.14404)”, IEEE S&P 2027.
+
+- Z. Peng, J. Liu, H. Jia, J. Yang, Y. Xue, **X. Wang**, “[Protected Exercise for Bridgeless Cross-Chain Options Without Upfront Holder Collateral](https://ieeexplore.ieee.org/document/11749584)“, IEEE TDSC 2026.
 
 - Q. Yu, G. Losa, N. Shrestha, **X. Wang**, “[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)”, ACM CCS 2026.
 
@@ -41,12 +43,15 @@ author_profile: true
 
 - Y. Cao<sup>\*</sup>, M. Zheng<sup>\*</sup>, L. W. Cong, S. Li, **X. Wang**, “[The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](https://arxiv.org/abs/2604.03083)”, ACM SIGMETRICS 2026.
 
+- J. Liu, B. Zhang, L. W. Cong, S. Li, **X. Wang**, “[From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240)”, The 2026 INFORMS Conference on Financial Engineering and Fintech.
 
 - Z. Peng, Y. Liu, Z. Sun, M. Li, Z. Luo, J. Zheng, W. Dong, X. He, **X. Wang**, Y. Xue, S. Xu, X. Huang, “[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568)”, ICLR 2026.
 
 - Z. Peng, J. Zheng, Y. Liu, H. Jia, Q. Ye, J. Liu, X. Yang, M. Li, Q. Gong, **X. Wang**, X. He, “[TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding](https://arxiv.org/abs/2512.06933)”, EMNLP 2026.
 
 - Y. Huang, J. Luo, **X. Wang**, “[Heterogeneous Tasks Offloading in Vehicular Edge Computing: A Federated Meta Deep Reinforcement Learning Approach](https://arxiv.org/abs/2605.18437)”, IEEE/ACM IWQoS 2026.
+
+- B. Zhang, **X. Wang**, “[Effective-Balance Design in Ethereum Proof-of-Stake](https://arxiv.org/abs/2610.19699)”, IJTCS-FAW 2026.
 
 - H. Su<sup>\*</sup>, M. Liu<sup>\*</sup>, J. Xu, X. Jia, **X. Wang**, “[GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship](https://arxiv.org/abs/2604.10160)”, ICBC 2026.
 
